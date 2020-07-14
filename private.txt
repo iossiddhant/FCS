@@ -1,0 +1,61 @@
+this is a private file,
+this file will include only private data.
+if you are not siddhant then i request you not to read further.
+Thank you and god bless you for not reading further.
+
+
+now i am in the mode of developement,i am little quick now, i may type words incorrectly,
+so don't bother my typing just try to understand my feelings or the motive behind the typing.
+
+
+now trying to check the branch swith.
+
+i am checking something on branch change.
+
+Date 22nd jan 2019 7:30 PM
+===================
+murali reading 2times
+Baba's jivan Kahani: will read at 10:00pm
+Swift 4.2 completed till gitHub repo management
+Kotlin learning  completed till conditional statement, loops, datatypes variables etc, will start oops tomorrow.
+need to finish a test today.
+
+Date 23rd jan 2019 12:44pm
+========================
+murali reading once
+noted some points from murali and other books
+
+swift 4.2 40mins reading 
+
+kotlin 40 mins reading
+
+
+Summary:
+Today spent most of the time with swift understanding userdefaults, and working with data
+
+then spent some time with kotlin.
+understood dealing with classes and objects, properties, constructors, declaring classes, using objects with different constructors.  
+
+Date 24th jan 2014 12:21PM
+=============================
+Today baba says to do the exercise of seeing everybody as soul.
+The most important knowledge is Manmana Vabha.
+1:24 - 2:00 kotlin (more on oops)
+3:20 - 4:00 working on android studios
+
+topics covered from kotlin
+Identifiers, Extension,Innerclass, nested class, companion object, Interface, Abstract Class, Generic, Enum, Array
+
+date 25th jan 2019 1:31 PM
+============================
+Kotlin Data structure : 1:39 - 2:20 pm
+
+
+
+
+
+
+
+
+ 
+
